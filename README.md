@@ -3,7 +3,8 @@
                                                     
                                                     
                                           𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚..📉📊📈 
-⭐All of my projects are available at 
+                                          
+⭐All of my projects are available at https://github.com/Sanjayvs2610
 
 💬 Ask me about Excel,Sql,Python,Tableau,Data Analytics ⚡
 
