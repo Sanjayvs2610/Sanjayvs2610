@@ -7,7 +7,7 @@
 
 💬 Ask me about Excel,Sql,Python,Tableau,Data Analytics ⚡
 
-Fun fact 📷 Traveling , cricket
+Fun fact 📷 Traveling , cricket , Movies
 
 🌍 I'm based in India
 
