@@ -1,16 +1,17 @@
-### Hi there 👋
+💫 About Me:
+                                                    𝐇𝐢 𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝗦𝗮𝗻𝗷𝗮𝘆 𝗩..                                            
+                                                    
+                                                    
+                                          𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚..📉📊📈 
+⭐All of my projects are available at 
 
-<!--
-**Sanjayvs2610/Sanjayvs2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Ask me about Excel,Sql,Python,Tableau,Data Analytics ⚡
 
-Here are some ideas to get you started:
+Fun fact 📷 Traveling , cricket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 I'm based in India
+
+✉️ You can contact me at vsanjay2610@gmail.com
+
+🧠 I'm learning Data science
+
