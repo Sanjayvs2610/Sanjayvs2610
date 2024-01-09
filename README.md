@@ -6,7 +6,7 @@
                                           
 ⭐All of my projects are available at https://github.com/Sanjayvs2610
 
-💬 Ask me about Excel,Sql,Python,Tableau,Data Analytics ⚡
+💬 Ask me about Excel,Sql,Python,Tableau,Power Bi,Data Analytics ⚡
 
 Fun fact 📷 Traveling , cricket , Movies
 
